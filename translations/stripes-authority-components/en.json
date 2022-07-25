@@ -1,1 +1,39 @@
-{}
+{
+  "meta.title": "MARC authority",
+
+  "browseSelectPlaceholder": "Select a browse option",
+  "label.search": "Search",
+  "label.search.textArea": "Enter search query",
+  "label.browse": "Browse",
+  "search.searchAndFilter": "Search & filter",
+  "search.createdDate": "Date created",
+  "search.updatedDate": "Date updated",
+  "search.subjectHeadings": "Thesaurus",
+  "search.headingType": "Type of heading",
+  "search.references": "References",
+  "search.excludeSeeFrom": "Exclude see from",
+  "search.excludeSeeFromAlso": "Exclude see from also",
+
+  "query": "Query",
+  "keyword": "Keyword",
+  "identifier": "Identifier (all)",
+  "personalName": "Personal name",
+  "corporateConferenceName": "Corporate/Conference name",
+  "geographicName": "Geographic name",
+  "nameTitle": "Name-title",
+  "uniformTitle": "Uniform title",
+  "subject": "Subject",
+  "childrenSubjectHeading": "Children's subject heading",
+  "genre": "Genre",
+  "advancedSearch": "Advanced search",
+  "marcHeading": "MARC authority record",
+  "authorityRecordSubtitle": "{heading} • Last updated: {lastUpdatedDate}",
+  "browse.noMatch.wouldBeHereLabel": "would be here",
+  
+  "search-results-list.authRefType": "Authorized/Reference",
+  "search-results-list.headingRef": "Heading/Reference",
+  "search-results-list.headingType": "Type of heading",
+  "search-results-list.paneSub": "{totalRecords, number} {totalRecords, plural, one {record found} other {records found}}",
+  "search-results-list.selectAll": "Unselect all records on this page",
+  "search-results-list.unselectAll": "Select all records on this page"
+}
