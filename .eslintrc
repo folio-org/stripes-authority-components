@@ -68,7 +68,8 @@
     "object-curly-newline": ["error", {
       "ImportDeclaration": { "multiline": true },
       "ExportDeclaration": { "multiline": true }
-    }]
+    }],
+    "import/no-cycle": [ 2, { "maxDepth": 1 } ],
   },
   "plugins": ["jest"]
 }
