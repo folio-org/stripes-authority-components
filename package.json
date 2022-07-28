@@ -8,6 +8,17 @@
   "engines": {
     "node": ">=14.0.0"
   },
+  "stripes": {
+    "actsAs": [
+      ""
+    ],
+    "okapiInterfaces": {
+      "search": "0.6",
+      "browse": "0.3",
+      "source-storage-records": "3.0",
+      "records-editor.records": "3.1"
+    }
+  },
   "scripts": {
     "start": "stripes serve",
     "build": "stripes build --output ./output",
@@ -73,10 +84,5 @@
   },
   "resolutions": {
     "@vue/compiler-sfc": "3.2.33"
-  },
-  "stripes": {
-    "actsAs": [
-      ""
-    ]
   }
 }
