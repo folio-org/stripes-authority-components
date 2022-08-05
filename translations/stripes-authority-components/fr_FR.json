@@ -31,6 +31,6 @@
     "search-results-list.headingRef": "Heading/Reference",
     "search-results-list.headingType": "Type of heading",
     "search-results-list.paneSub": "{totalRecords, number} {totalRecords, plural, one {record found} other {records found}}",
-    "search-results-list.selectAll": "Unselect all records on this page",
-    "search-results-list.unselectAll": "Select all records on this page"
+    "search-results-list.selectAll": "Désélectionner tous les enregistrements sur cette page",
+    "search-results-list.unselectAll": "Sélectionner tous les enregistrements sur cette page"
 }
