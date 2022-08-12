@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-authority-components",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Component library for Stripes Authority modules",
   "repository": "https://github.com/folio-org/stripes-authority-components",
   "main": "index.js",
