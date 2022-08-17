@@ -16,6 +16,8 @@ const errorBlacklist = [
   /Warning: Unknown event handler property `%s`./,
   /No metadata harvested from package files, so you will not get app icons./,
   /Warning: Failed prop type: Invalid prop `icon` supplied to `Icon`/,
+  /Warning: Failed %s type: %s%s/,
+  /Warning: The prop `paginationBoundaries` of/,
 ];
 
 global.beforeAll(() => {
