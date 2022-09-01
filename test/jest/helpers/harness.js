@@ -18,8 +18,6 @@ import buildStripes from '../__mock__/stripesCore.mock';
 
 const STRIPES = buildStripes();
 
-const defaultHistory = createMemoryHistory();
-
 const queryClient = new QueryClient();
 
 const AuthoritiesSearchContextProviderMock = ({ children, ctxValue }) => (
@@ -38,7 +36,7 @@ const Harness = ({
   Router = DefaultRouter,
   stripes,
   children,
-  history = defaultHistory,
+  history = createMemoryHistory(),
   authoritiesCtxValue,
   selectedRecordCtxValue,
 }) => {
