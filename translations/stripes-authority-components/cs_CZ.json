@@ -32,5 +32,7 @@
     "search-results-list.headingType": "Typ nadpisu",
     "search-results-list.paneSub": "{totalRecords, number} {totalRecords, plural, one {záznam nalezen} other {záznamy nalezeny}}",
     "search-results-list.selectAll": "Zrušte výběr všech záznamů na této stránce",
-    "search-results-list.unselectAll": "Vyberte všechny záznamy na této stránce"
+    "search-results-list.unselectAll": "Vyberte všechny záznamy na této stránce",
+    "authority.view.error.notFound": "Záznam autority nebyl nalezen",
+    "authority.view.error.unknown": "Nastala neznámá chyba"
 }
