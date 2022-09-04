@@ -32,5 +32,7 @@
     "search-results-list.headingType": "Tipo de cabeçalho",
     "search-results-list.paneSub": "{totalRecords, number} {totalRecords, plural, one {registro encontrado} other {registros encontrados}}",
     "search-results-list.selectAll": "Desselecionar todos os registros desta página",
-    "search-results-list.unselectAll": "Selecione todos os registros nesta página"
+    "search-results-list.unselectAll": "Selecione todos os registros nesta página",
+    "authority.view.error.notFound": "Authority record not found",
+    "authority.view.error.unknown": "An unknown error occurred"
 }
