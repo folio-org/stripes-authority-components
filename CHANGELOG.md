@@ -8,3 +8,4 @@
 - [UISAUTCOMP-10](https://issues.folio.org/browse/UISAUTCOMP-10) Scroll bars display at the second pane when they don't need
 - [UISAUTCOMP-8](https://issues.folio.org/browse/UISAUTCOMP-8) Change marc authorities search by "identifiers.value"
 - [UISAUTCOMP-9](https://issues.folio.org/browse/UISAUTCOMP-9) Add the marc view component, hide it after a filter change, add the ability to close it without redirection
+- [UISAUTCOMP-12](https://issues.folio.org/browse/UISAUTCOMP-12) CLONE - Default search query change to return - authRefType=Authorized
