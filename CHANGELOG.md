@@ -9,3 +9,4 @@
 - [UISAUTCOMP-8](https://issues.folio.org/browse/UISAUTCOMP-8) Change marc authorities search by "identifiers.value"
 - [UISAUTCOMP-9](https://issues.folio.org/browse/UISAUTCOMP-9) Add the marc view component, hide it after a filter change, add the ability to close it without redirection
 - [UISAUTCOMP-12](https://issues.folio.org/browse/UISAUTCOMP-12) CLONE - Default search query change to return - authRefType=Authorized
+- [UISAUTCOMP-14](https://issues.folio.org/browse/UISAUTCOMP-14) Add the Expand the Search & filter pane option
