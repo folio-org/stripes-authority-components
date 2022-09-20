@@ -12,3 +12,4 @@
 - [UISAUTCOMP-14](https://issues.folio.org/browse/UISAUTCOMP-14) Add the Expand the Search & filter pane option
 - [UISAUTCOMP-15](https://issues.folio.org/browse/UISAUTCOMP-15) Results List : Click Link icon/button to select a MARC authority record
 - [UISAUTCOMP-13](https://issues.folio.org/browse/UISAUTCOMP-13) Browse | The pagination doesn't reset when the user changes the search option and uses the same search query.
+- [UISAUTCOMP-17](https://issues.folio.org/browse/UISAUTCOMP-17) FE: MARC authority: Create an Authority source facet
