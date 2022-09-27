@@ -11,6 +11,7 @@
   "search.subjectHeadings": "Thesaurus",
   "search.headingType": "Type of heading",
   "search.references": "References",
+  "search.sourceFileId": "Authority source",
   "search.excludeSeeFrom": "Exclude see from",
   "search.excludeSeeFromAlso": "Exclude see from also",
 
