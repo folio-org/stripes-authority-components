@@ -12,6 +12,7 @@
   "search.headingType": "Type of heading",
   "search.references": "References",
   "search.sourceFileId": "Authority source",
+  "search.sourceFileId.nullOption": "Not specified",
   "search.excludeSeeFrom": "Exclude see from",
   "search.excludeSeeFromAlso": "Exclude see from also",
 
