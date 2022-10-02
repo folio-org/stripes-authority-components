@@ -34,5 +34,7 @@
     "search-results-list.selectAll": "取消选择本页所有记录",
     "search-results-list.unselectAll": "选择本页所有记录",
     "authority.view.error.notFound": "未找到规范记录",
-    "authority.view.error.unknown": "发生未知错误"
+    "authority.view.error.unknown": "发生未知错误",
+    "search.sourceFileId": "Authority source",
+    "search.sourceFileId.nullOption": "Not specified"
 }
