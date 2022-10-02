@@ -34,5 +34,7 @@
     "search-results-list.selectAll": "Desselecionar todos os registros desta página",
     "search-results-list.unselectAll": "Selecione todos os registros nesta página",
     "authority.view.error.notFound": "Authority record not found",
-    "authority.view.error.unknown": "An unknown error occurred"
+    "authority.view.error.unknown": "An unknown error occurred",
+    "search.sourceFileId": "Authority source",
+    "search.sourceFileId.nullOption": "Not specified"
 }

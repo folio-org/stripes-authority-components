@@ -34,5 +34,7 @@
     "search-results-list.selectAll": "إلغاء تحديد كل التسجيلات الموجودة في هذه الصفحة",
     "search-results-list.unselectAll": "تحديد كل التسجيلات الموجودة في هذه الصفحة",
     "authority.view.error.notFound": "لم يتم العثور على تسجيلة الاستناد",
-    "authority.view.error.unknown": "حدث خطأ غير معروف"
+    "authority.view.error.unknown": "حدث خطأ غير معروف",
+    "search.sourceFileId": "Authority source",
+    "search.sourceFileId.nullOption": "Not specified"
 }
