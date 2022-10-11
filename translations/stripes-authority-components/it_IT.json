@@ -19,7 +19,7 @@
     "corporateConferenceName": "Corporate/Conference name",
     "geographicName": "Geographic name",
     "nameTitle": "Name-title",
-    "uniformTitle": "Uniform title",
+    "uniformTitle": "Titolo uniforme",
     "subject": "Subject",
     "childrenSubjectHeading": "Children's subject heading",
     "genre": "Genre",
@@ -34,7 +34,7 @@
     "search-results-list.selectAll": "Unselect all records on this page",
     "search-results-list.unselectAll": "Select all records on this page",
     "authority.view.error.notFound": "Authority record not found",
-    "authority.view.error.unknown": "An unknown error occurred",
+    "authority.view.error.unknown": "Si è verificato un errore sconosciuto",
     "search.sourceFileId": "Authority source",
-    "search.sourceFileId.nullOption": "Not specified"
+    "search.sourceFileId.nullOption": "Non specificato"
 }
