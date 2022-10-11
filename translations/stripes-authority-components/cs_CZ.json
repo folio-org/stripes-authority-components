@@ -35,6 +35,6 @@
     "search-results-list.unselectAll": "Vyberte všechny záznamy na této stránce",
     "authority.view.error.notFound": "Záznam autority nebyl nalezen",
     "authority.view.error.unknown": "Nastala neznámá chyba",
-    "search.sourceFileId": "Authority source",
-    "search.sourceFileId.nullOption": "Not specified"
+    "search.sourceFileId": "Zdroj autority",
+    "search.sourceFileId.nullOption": "Nespecifikováno"
 }
