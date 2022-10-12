@@ -14,4 +14,5 @@
 - [UISAUTCOMP-13](https://issues.folio.org/browse/UISAUTCOMP-13) Browse | The pagination doesn't reset when the user changes the search option and uses the same search query.
 - [UISAUTCOMP-17](https://issues.folio.org/browse/UISAUTCOMP-17) FE: MARC authority: Create an Authority source facet
 - [UISAUTCOMP-21](https://issues.folio.org/browse/UISAUTCOMP-21) Make MCL row unclickable when a placeholder row is displayed
+- [UISAUTCOMP-23](https://issues.folio.org/browse/UISAUTCOMP-23) Search Results List: add non interactive headers
 - [UISAUTCOMP-19](https://issues.folio.org/browse/UISAUTCOMP-19) Add a11y tests
