@@ -16,4 +16,4 @@
 - [UISAUTCOMP-21](https://issues.folio.org/browse/UISAUTCOMP-21) Make MCL row unclickable when a placeholder row is displayed
 - [UISAUTCOMP-23](https://issues.folio.org/browse/UISAUTCOMP-23) Search Results List: add non interactive headers
 - [UISAUTCOMP-19](https://issues.folio.org/browse/UISAUTCOMP-19) Add a11y tests
-- [UISAUTCOMP-19](https://issues.folio.org/browse/UISAUTCOMP-24) MARC authority app: Authority source/Thesaurus Facet option does not display value when zero results are returned
+- [UISAUTCOMP-24](https://issues.folio.org/browse/UISAUTCOMP-24) MARC authority app: Authority source/Thesaurus Facet option does not display value when zero results are returned
