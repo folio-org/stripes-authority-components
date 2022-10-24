@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [1.0.0] (In Progress)
+## [1.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.0) (2022-10-25)
 
 - [UISAUTCOMP-1](https://issues.folio.org/browse/UISAUTCOMP-1) stripes-authority-components: Create a repository
 - [UISAUTCOMP-2](https://issues.folio.org/browse/UISAUTCOMP-2) Select a MARC authority record modal > Search MARC authority records
