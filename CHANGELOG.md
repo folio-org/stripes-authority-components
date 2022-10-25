@@ -1,12 +1,15 @@
 # Change history for stripes-authoriy-components
 
-## [1.0.0] (In Progress)
+## [1.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.0) (2022-10-25)
 
 - [UISAUTCOMP-1](https://issues.folio.org/browse/UISAUTCOMP-1) stripes-authority-components: Create a repository
+- [UISAUTCOMP-2](https://issues.folio.org/browse/UISAUTCOMP-2) Select a MARC authority record modal > Search MARC authority records
 - [UISAUTCOMP-4](https://issues.folio.org/browse/UISAUTCOMP-4) Browse authority | Remove checkbox "Exclude see from also" from "Reference" accordion.
 - [UISAUTCOMP-5](https://issues.folio.org/browse/UISAUTCOMP-5) Select a MARC authority record modal >  Browse MARC authority records
+- [UISAUTCOMP-6](https://issues.folio.org/browse/UISAUTCOMP-6) Fix pagination, height, and width of the result list
 - [UISAUTCOMP-10](https://issues.folio.org/browse/UISAUTCOMP-10) Scroll bars display at the second pane when they don't need
 - [UISAUTCOMP-8](https://issues.folio.org/browse/UISAUTCOMP-8) Change marc authorities search by "identifiers.value"
+- [UISAUTCOMP-7](https://issues.folio.org/browse/UISAUTCOMP-7) Fix prop types warnings in tests
 - [UISAUTCOMP-9](https://issues.folio.org/browse/UISAUTCOMP-9) Add the marc view component, hide it after a filter change, add the ability to close it without redirection
 - [UISAUTCOMP-12](https://issues.folio.org/browse/UISAUTCOMP-12) CLONE - Default search query change to return - authRefType=Authorized
 - [UISAUTCOMP-14](https://issues.folio.org/browse/UISAUTCOMP-14) Add the Expand the Search & filter pane option
