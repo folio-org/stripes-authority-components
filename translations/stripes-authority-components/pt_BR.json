@@ -33,8 +33,8 @@
     "search-results-list.paneSub": "{totalRecords, number} {totalRecords, plural, one {registro encontrado} other {registros encontrados}}",
     "search-results-list.selectAll": "Desselecionar todos os registros desta página",
     "search-results-list.unselectAll": "Selecione todos os registros nesta página",
-    "authority.view.error.notFound": "Authority record not found",
-    "authority.view.error.unknown": "An unknown error occurred",
-    "search.sourceFileId": "Authority source",
-    "search.sourceFileId.nullOption": "Not specified"
+    "authority.view.error.notFound": "Registro de autoridade não encontrado",
+    "authority.view.error.unknown": "Ocorreu um erro desconhecido",
+    "search.sourceFileId": "Registro de autoridade",
+    "search.sourceFileId.nullOption": "Não especificado"
 }

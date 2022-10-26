@@ -35,6 +35,6 @@
     "search-results-list.unselectAll": "选择本页所有记录",
     "authority.view.error.notFound": "未找到规范记录",
     "authority.view.error.unknown": "发生未知错误",
-    "search.sourceFileId": "Authority source",
-    "search.sourceFileId.nullOption": "Not specified"
+    "search.sourceFileId": "规范来源",
+    "search.sourceFileId.nullOption": "未指定"
 }
