@@ -1,12 +1,14 @@
 @import "@folio/stripes-components/lib/variables";
 
 .anchorLink {
-  width: 100%;
+  margin-right: 0.35em;
   font-weight: bold;
+  justify-content: start;
 }
 
-.anchorIcon {
-  margin-right: 5px;
+.noMatchLabelWrapper {
+  color: var(--error);
+  font-weight: bold;
 }
 
 .browseNoMatchText {
