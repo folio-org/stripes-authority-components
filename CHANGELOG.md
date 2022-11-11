@@ -3,6 +3,9 @@
 ## [1.1.0] (IN PROGRESS)
 
 - [UISAUTCOMP-22](https://issues.folio.org/browse/UISAUTCOMP-22) Long browse queries don't display properly in a not-exact match placeholder
+
+## [1.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.1) (2022-11-11)
+
 - [UISAUTCOMP-25](https://issues.folio.org/browse/UISAUTCOMP-25) Fix error when switching from "Browse" to "Search", when no records were found in the browse result list
 
 ## [1.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.0) (2022-10-25)
