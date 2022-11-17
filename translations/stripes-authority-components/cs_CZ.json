@@ -1,5 +1,5 @@
 {
-    "meta.title": "Autorita MARC",
+    "meta.title": "MARC autority",
     "browseSelectPlaceholder": "Vyberte možnost procházení",
     "label.search": "Vyhledávání",
     "label.search.textArea": "Zadejte vyhledávací dotaz",
@@ -24,7 +24,7 @@
     "childrenSubjectHeading": "Dětské tematické okruhy",
     "genre": "Žánr",
     "advancedSearch": "Pokročilé vyhledávání",
-    "marcHeading": "Záznam autority MARC",
+    "marcHeading": "Záznam MARC autority",
     "authorityRecordSubtitle": "{heading} • Poslední aktualizace: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "byl by tady",
     "search-results-list.authRefType": "Autorizováno/Odkaz",
