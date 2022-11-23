@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [1.0.2] (IN PROGRESS)
+
+- [UISAUTCOMP-30](https://issues.folio.org/browse/UISAUTCOMP-30) Error appears when the user executes search in "MARC Authority" app
+
 ## [1.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.1) (2022-11-11)
 
 - [UISAUTCOMP-25](https://issues.folio.org/browse/UISAUTCOMP-25) Fix error when switching from "Browse" to "Search", when no records were found in the browse result list
