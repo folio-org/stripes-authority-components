@@ -3,6 +3,7 @@
 ## [1.1.0] (IN PROGRESS)
 
 - [UISAUTCOMP-22](https://issues.folio.org/browse/UISAUTCOMP-22) Long browse queries don't display properly in a not-exact match placeholder
+- [UISAUTCOMP-30](https://issues.folio.org/browse/UISAUTCOMP-30) Error appears when the user executes search in "MARC Authority" app
 
 ## [1.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.1) (2022-11-11)
 
