@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [1.0.2] (IN PROGRESS)
+## [1.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.2) (2022-11-28)
 
 - [UISAUTCOMP-30](https://issues.folio.org/browse/UISAUTCOMP-30) Error appears when the user executes search in "MARC Authority" app
 
