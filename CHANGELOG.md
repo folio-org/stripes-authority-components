@@ -5,6 +5,7 @@
 - [UISAUTCOMP-22](https://issues.folio.org/browse/UISAUTCOMP-22) Long browse queries don't display properly in a not-exact match placeholder
 - [UISAUTCOMP-32](https://issues.folio.org/browse/UISAUTCOMP-32) MARC authority app: Results List: Number of titles column > Link each number to return all bib records linked to the authority record
 - [UISAUTCOMP-33](https://issues.folio.org/browse/UISAUTCOMP-33) Default search/browse option and Authority source file selections based on MARC bib field to be linked
+- [UISAUTCOMP-34](https://issues.folio.org/browse/UISAUTCOMP-34) "Reset all" button doesn't return values to default
 
 ## [1.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.2) (2022-11-28)
 
