@@ -7,6 +7,7 @@
 - [UISAUTCOMP-33](https://issues.folio.org/browse/UISAUTCOMP-33) Default search/browse option and Authority source file selections based on MARC bib field to be linked
 - [UISAUTCOMP-35](https://issues.folio.org/browse/UISAUTCOMP-35) MARC authority: Delete MARC authority record handling
 - [UISAUTCOMP-34](https://issues.folio.org/browse/UISAUTCOMP-34) "Reset all" button doesn't return values to default
+- [UISAUTCOMP-36](https://issues.folio.org/browse/UISAUTCOMP-36) Fix "Reference" record opens when user clicks on the "View" icon next to the linked "MARC Bib" field
 
 ## [1.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.2) (2022-11-28)
 
