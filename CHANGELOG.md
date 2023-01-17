@@ -8,6 +8,7 @@
 - [UISAUTCOMP-35](https://issues.folio.org/browse/UISAUTCOMP-35) MARC authority: Delete MARC authority record handling
 - [UISAUTCOMP-34](https://issues.folio.org/browse/UISAUTCOMP-34) "Reset all" button doesn't return values to default
 - [UISAUTCOMP-36](https://issues.folio.org/browse/UISAUTCOMP-36) Fix "Reference" record opens when user clicks on the "View" icon next to the linked "MARC Bib" field
+- [UISAUTCOMP-37](https://issues.folio.org/browse/UISAUTCOMP-37) UISAUTCOMP-37: bump stripes to 8.0.0 for Orchid/2023-R1
 
 ## [1.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.2) (2022-11-28)
 
