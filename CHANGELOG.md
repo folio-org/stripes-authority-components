@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [2.0.0] (IN PROGRESS)
+- [UISAUTCOMP-37](https://issues.folio.org/browse/UISAUTCOMP-37) UISAUTCOMP-37: bump stripes to 8.0.0 for Orchid/2023-R1
+- [UISAUTCOMP-39](https://issues.folio.org/browse/UISAUTCOMP-39) UISAUTCOMP-39: Bump quick-marc to 6.0.0
+
 ## [1.1.0] (IN PROGRESS)
 
 - [UISAUTCOMP-22](https://issues.folio.org/browse/UISAUTCOMP-22) Long browse queries don't display properly in a not-exact match placeholder
@@ -8,7 +12,6 @@
 - [UISAUTCOMP-35](https://issues.folio.org/browse/UISAUTCOMP-35) MARC authority: Delete MARC authority record handling
 - [UISAUTCOMP-34](https://issues.folio.org/browse/UISAUTCOMP-34) "Reset all" button doesn't return values to default
 - [UISAUTCOMP-36](https://issues.folio.org/browse/UISAUTCOMP-36) Fix "Reference" record opens when user clicks on the "View" icon next to the linked "MARC Bib" field
-- [UISAUTCOMP-37](https://issues.folio.org/browse/UISAUTCOMP-37) UISAUTCOMP-37: bump stripes to 8.0.0 for Orchid/2023-R1
 
 ## [1.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v1.0.2) (2022-11-28)
 
