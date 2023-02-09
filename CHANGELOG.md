@@ -5,6 +5,7 @@
 - [UISAUTCOMP-37](https://issues.folio.org/browse/UISAUTCOMP-37) UISAUTCOMP-37: bump stripes to 8.0.0 for Orchid/2023-R1
 - [UISAUTCOMP-40](https://issues.folio.org/browse/UISAUTCOMP-40) UISAUTCOMP-40: Align the module with API breaking change
 - [UISAUTCOMP-39](https://issues.folio.org/browse/UISAUTCOMP-39) UISAUTCOMP-39: Bump quick-marc to 6.0.0
+- [UISAUTCOMP-42](https://issues.folio.org/browse/UISAUTCOMP-42) UISAUTCOMP-42: Bump `stripes-acq-components` to `4.0.0`
 
 ## [1.1.0] (IN PROGRESS)
 
