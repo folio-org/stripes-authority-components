@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## 2.1.0 IN PROGRESS
+
+- [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
+
 ## [2.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.0) (2023-02-13)
 
 - [UISAUTCOMP-22](https://issues.folio.org/browse/UISAUTCOMP-22) Long browse queries don't display properly in a not-exact match placeholder
