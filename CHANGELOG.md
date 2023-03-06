@@ -2,6 +2,7 @@
 
 ## 2.1.0 IN PROGRESS
 
+- [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
 - [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflicts
 
 ## [2.0.1] (IN PROGRESS)
