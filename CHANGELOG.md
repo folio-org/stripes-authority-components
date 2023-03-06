@@ -4,6 +4,10 @@
 
 - [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
 
+## [2.0.1] (IN PROGRESS)
+
+- [UISAUTCOMP-45](https://issues.folio.org/browse/UISAUTCOMP-45) Extend Identifier (all) search option with naturalId query
+
 ## [2.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.0) (2023-02-13)
 
 - [UISAUTCOMP-22](https://issues.folio.org/browse/UISAUTCOMP-22) Long browse queries don't display properly in a not-exact match placeholder
