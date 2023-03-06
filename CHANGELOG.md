@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## 2.1.0 IN PROGRESS
+
+- [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
+
 ## [2.0.1] (IN PROGRESS)
 
 - [UISAUTCOMP-45](https://issues.folio.org/browse/UISAUTCOMP-45) Extend Identifier (all) search option with naturalId query
