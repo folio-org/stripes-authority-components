@@ -2,7 +2,11 @@
 
 ## 2.1.0 IN PROGRESS
 
-- [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflictso
+- [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflicts
+
+## [2.0.1] (IN PROGRESS)
+
+- [UISAUTCOMP-45](https://issues.folio.org/browse/UISAUTCOMP-45) Extend Identifier (all) search option with naturalId query
 
 ## [2.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.0) (2023-02-13)
 
