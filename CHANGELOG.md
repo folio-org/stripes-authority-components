@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [2.0.1] (IN PROGRESS)
+## [2.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.1) (2023-03-14)
 
 - [UISAUTCOMP-45](https://issues.folio.org/browse/UISAUTCOMP-45) Extend Identifier (all) search option with naturalId query
 
