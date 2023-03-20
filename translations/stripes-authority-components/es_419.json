@@ -35,6 +35,6 @@
     "search-results-list.unselectAll": "Select all records on this page",
     "authority.view.error.notFound": "Registro de autoridades no encontrado",
     "authority.view.error.unknown": "An unknown error occurred",
-    "search.sourceFileId": "Authority source",
-    "search.sourceFileId.nullOption": "Not specified"
+    "search.sourceFileId": "Fuente de la autoridad",
+    "search.sourceFileId.nullOption": "No especificado"
 }
