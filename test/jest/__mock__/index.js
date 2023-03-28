@@ -6,3 +6,4 @@ import './stripesCore.mock';
 import './stripesIcon.mock';
 import './stripesSmartComponent.mock';
 import './matchMedia.mock';
+import './react-virtualized-auto-sizer.mock';

@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
+
+- [UISAUTCOMP-47](https://issues.folio.org/browse/UISAUTCOMP-47) Fix filtering in the `Thesaurus` facet.
+
 ## [2.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.1) (2023-03-14)
 
 - [UISAUTCOMP-45](https://issues.folio.org/browse/UISAUTCOMP-45) Extend Identifier (all) search option with naturalId query
