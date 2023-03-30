@@ -1,10 +1,13 @@
 # Change history for stripes-authoriy-components
 
-## [2.1.0] (IN PROGRESS)
+## [2.1.0] IN PROGRESS
 
 - [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
 - [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflicts
 - [UISAUTCOMP-48](https://issues.folio.org/browse/UISAUTCOMP-48) Fix imports to stripes-core
+
+## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
+
 - [UISAUTCOMP-47](https://issues.folio.org/browse/UISAUTCOMP-47) Fix filtering in the `Thesaurus` facet.
 
 ## [2.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.1) (2023-03-14)
