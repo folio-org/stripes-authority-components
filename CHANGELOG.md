@@ -5,6 +5,7 @@
 - [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
 - [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflicts
 - [UISAUTCOMP-48](https://issues.folio.org/browse/UISAUTCOMP-48) Fix imports to stripes-core
+- [UISAUTCOMP-50](https://issues.folio.org/browse/UISAUTCOMP-50) Pre-populate search/browse box with bib subfield values.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
