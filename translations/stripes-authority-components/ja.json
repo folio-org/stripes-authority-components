@@ -26,7 +26,7 @@
     "advancedSearch": "Advanced search",
     "marcHeading": "MARC authority record",
     "authorityRecordSubtitle": "{heading} • Last updated: {lastUpdatedDate}",
-    "browse.noMatch.wouldBeHereLabel": "would be here",
+    "browse.noMatch.wouldBeHereLabel": "ここにあるでしょう",
     "search-results-list.authRefType": "Authorized/Reference",
     "search-results-list.headingRef": "Heading/Reference",
     "search-results-list.headingType": "Type of heading",
