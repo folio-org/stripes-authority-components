@@ -6,6 +6,7 @@
 - [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflicts
 - [UISAUTCOMP-48](https://issues.folio.org/browse/UISAUTCOMP-48) Fix imports to stripes-core
 - [UISAUTCOMP-50](https://issues.folio.org/browse/UISAUTCOMP-50) Pre-populate search/browse box with bib subfield values.
+- [UISAUTCOMP-53](https://issues.folio.org/browse/UISAUTCOMP-53) Remove redundant `records-editor.records` interface.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
