@@ -7,6 +7,7 @@
 - [UISAUTCOMP-48](https://issues.folio.org/browse/UISAUTCOMP-48) Fix imports to stripes-core
 - [UISAUTCOMP-50](https://issues.folio.org/browse/UISAUTCOMP-50) Pre-populate search/browse box with bib subfield values.
 - [UISAUTCOMP-53](https://issues.folio.org/browse/UISAUTCOMP-53) Remove redundant `records-editor.records` interface.
+- [UISAUTCOMP-56](https://issues.folio.org/browse/UISAUTCOMP-56) Use formatted advanced search rows for initial search.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
