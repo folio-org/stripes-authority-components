@@ -8,6 +8,7 @@
 - [UISAUTCOMP-50](https://issues.folio.org/browse/UISAUTCOMP-50) Pre-populate search/browse box with bib subfield values.
 - [UISAUTCOMP-53](https://issues.folio.org/browse/UISAUTCOMP-53) Remove redundant `records-editor.records` interface.
 - [UISAUTCOMP-56](https://issues.folio.org/browse/UISAUTCOMP-56) Use formatted advanced search rows for initial search.
+- [UISAUTCOMP-52](https://issues.folio.org/browse/UISAUTCOMP-52) Add optional chaining operator to avoid NPE if data lacks parsedRecord field.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
