@@ -8,6 +8,7 @@
 - [UISAUTCOMP-50](https://issues.folio.org/browse/UISAUTCOMP-50) Pre-populate search/browse box with bib subfield values.
 - [UISAUTCOMP-53](https://issues.folio.org/browse/UISAUTCOMP-53) Remove redundant `records-editor.records` interface.
 - [UISAUTCOMP-56](https://issues.folio.org/browse/UISAUTCOMP-56) Use formatted advanced search rows for initial search.
+- [UISAUTCOMP-57](https://issues.folio.org/browse/UISAUTCOMP-57) Retain `Search` and `Browse` search terms.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
