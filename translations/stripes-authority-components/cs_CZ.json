@@ -23,7 +23,7 @@
     "subject": "Předmět",
     "childrenSubjectHeading": "Dětské tematické okruhy",
     "genre": "Žánr",
-    "advancedSearch": "Pokročilé vyhledávání",
+    "advancedSearch": "Rozšířené vyhledávání",
     "marcHeading": "Záznam MARC autority",
     "authorityRecordSubtitle": "{heading} • Poslední aktualizace: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "byl by tady",
