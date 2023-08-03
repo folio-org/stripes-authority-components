@@ -12,6 +12,7 @@
 - [UISAUTCOMP-52](https://issues.folio.org/browse/UISAUTCOMP-52) Add optional chaining operator to avoid NPE if data lacks parsedRecord field.
 - [UISAUTCOMP-58](https://issues.folio.org/browse/UISAUTCOMP-58) Fix the message in the result list after resetting.
 - [UISAUTCOMP-59](https://issues.folio.org/browse/UISAUTCOMP-59) Adding authority mapping rule to mark Highlighted Fields
+- [UISAUTCOMP-63](https://issues.folio.org/browse/UISAUTCOMP-63) Add MARC authority Search facet for shared vs Local authority records.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
