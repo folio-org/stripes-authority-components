@@ -1,6 +1,9 @@
 {
   "meta.title": "MARC authority",
 
+  "filter.true": "Yes",
+  "filter.false": "No",
+
   "browseSelectPlaceholder": "Select a browse option",
   "label.search": "Search",
   "label.search.textArea": "Enter search query",
@@ -11,6 +14,7 @@
   "search.subjectHeadings": "Thesaurus",
   "search.headingType": "Type of heading",
   "search.references": "References",
+  "search.shared": "Shared",
   "search.sourceFileId": "Authority source",
   "search.sourceFileId.nullOption": "Not specified",
   "search.excludeSeeFrom": "Exclude see from",
