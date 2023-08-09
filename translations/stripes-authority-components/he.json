@@ -36,5 +36,8 @@
     "authority.view.error.notFound": "Authority record not found",
     "authority.view.error.unknown": "An unknown error occurred",
     "search.sourceFileId": "Authority source",
-    "search.sourceFileId.nullOption": "Not specified"
+    "search.sourceFileId.nullOption": "Not specified",
+    "filter.true": "Yes",
+    "filter.false": "No",
+    "search.shared": "Shared"
 }

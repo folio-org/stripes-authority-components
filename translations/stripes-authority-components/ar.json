@@ -36,5 +36,8 @@
     "authority.view.error.notFound": "لم يتم العثور على تسجيلة الاستناد",
     "authority.view.error.unknown": "حدث خطأ غير معروف",
     "search.sourceFileId": "Authority source",
-    "search.sourceFileId.nullOption": "Not specified"
+    "search.sourceFileId.nullOption": "Not specified",
+    "filter.true": "Yes",
+    "filter.false": "No",
+    "search.shared": "Shared"
 }
