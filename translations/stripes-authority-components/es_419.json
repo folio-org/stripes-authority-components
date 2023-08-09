@@ -36,5 +36,8 @@
     "authority.view.error.notFound": "Registro de autoridades no encontrado",
     "authority.view.error.unknown": "Se ha producido un error desconocido",
     "search.sourceFileId": "Fuente de la autoridad",
-    "search.sourceFileId.nullOption": "No especificado"
+    "search.sourceFileId.nullOption": "No especificado",
+    "filter.true": "Yes",
+    "filter.false": "No",
+    "search.shared": "Shared"
 }
