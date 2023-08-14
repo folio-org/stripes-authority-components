@@ -36,5 +36,8 @@
     "authority.view.error.notFound": "未找到规范记录",
     "authority.view.error.unknown": "发生未知错误",
     "search.sourceFileId": "规范来源",
-    "search.sourceFileId.nullOption": "未指定"
+    "search.sourceFileId.nullOption": "未指定",
+    "filter.true": "Yes",
+    "filter.false": "No",
+    "search.shared": "Shared"
 }

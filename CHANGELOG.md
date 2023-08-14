@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [2.1.0] IN PROGRESS
+## [3.0.0] IN PROGRESS
 
 - [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
 - [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflicts
@@ -12,7 +12,8 @@
 - [UISAUTCOMP-52](https://issues.folio.org/browse/UISAUTCOMP-52) Add optional chaining operator to avoid NPE if data lacks parsedRecord field.
 - [UISAUTCOMP-58](https://issues.folio.org/browse/UISAUTCOMP-58) Fix the message in the result list after resetting.
 - [UISAUTCOMP-59](https://issues.folio.org/browse/UISAUTCOMP-59) Adding authority mapping rule to mark Highlighted Fields
-- [UISAUTCOMP-63](https://issues.folio.org/browse/UISAUTCOMP-63) Add MARC authority Search facet for shared vs Local authority records.
+- [UISAUTCOMP-62](https://issues.folio.org/browse/UISAUTCOMP-62) *BREAKING* Bump `react` to `v18`.
+- [UISAUTCOMP-63](https://issues.folio.org/browse/UISAUTCOMP-63) Add MARC authority facet for shared vs Local authority records.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
