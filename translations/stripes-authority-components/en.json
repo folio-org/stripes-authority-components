@@ -32,8 +32,9 @@
   "childrenSubjectHeading": "Children's subject heading",
   "genre": "Genre",
   "advancedSearch": "Advanced search",
-  "marcHeading": "MARC authority record",
   "authorityRecordSubtitle": "{heading} • Last updated: {lastUpdatedDate}",
+  "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}",
+  "marcHeading": "{shared, select, true {Shared} false {Local} other {}} MARC authority record",
   "browse.noMatch.wouldBeHereLabel": "would be here",
 
   "search-results-list.authRefType": "Authorized/Reference",
