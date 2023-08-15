@@ -14,6 +14,7 @@
 - [UISAUTCOMP-59](https://issues.folio.org/browse/UISAUTCOMP-59) Adding authority mapping rule to mark Highlighted Fields
 - [UISAUTCOMP-62](https://issues.folio.org/browse/UISAUTCOMP-62) *BREAKING* Bump `react` to `v18`.
 - [UISAUTCOMP-63](https://issues.folio.org/browse/UISAUTCOMP-63) Add MARC authority facet for shared vs Local authority records.
+- [UISAUTCOMP-64](https://issues.folio.org/browse/UISAUTCOMP-64) Update Node.js to v18 in GitHub Actions.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
