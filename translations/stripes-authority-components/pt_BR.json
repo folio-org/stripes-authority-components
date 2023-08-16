@@ -39,5 +39,6 @@
     "search.sourceFileId.nullOption": "Não especificado",
     "filter.true": "Sim",
     "filter.false": "Não",
-    "search.shared": "Compartilhado"
+    "search.shared": "Compartilhado",
+    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}"
 }
