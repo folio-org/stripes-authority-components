@@ -37,7 +37,8 @@
     "authority.view.error.unknown": "Se ha producido un error desconocido",
     "search.sourceFileId": "Fuente de la autoridad",
     "search.sourceFileId.nullOption": "No especificado",
-    "filter.true": "Yes",
+    "filter.true": "Sí",
     "filter.false": "No",
-    "search.shared": "Shared"
+    "search.shared": "Compartido",
+    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}"
 }
