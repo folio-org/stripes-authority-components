@@ -24,7 +24,7 @@
     "childrenSubjectHeading": "Children's subject heading",
     "genre": "Genre",
     "advancedSearch": "Búsqueda avanzada",
-    "marcHeading": "MARC authority record",
+    "marcHeading": "{shared, select, true {Shared} false {Local} other {}} MARC authority record",
     "authorityRecordSubtitle": "{heading} • Last updated: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "debería estar aquí",
     "search-results-list.authRefType": "Authorized/Reference",
@@ -39,5 +39,6 @@
     "search.sourceFileId.nullOption": "Not specified",
     "filter.true": "Yes",
     "filter.false": "No",
-    "search.shared": "Shared"
+    "search.shared": "Shared",
+    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}"
 }
