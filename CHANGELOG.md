@@ -17,6 +17,7 @@
 - [UISAUTCOMP-64](https://issues.folio.org/browse/UISAUTCOMP-64) Update Node.js to v18 in GitHub Actions.
 - [UISAUTCOMP-67](https://issues.folio.org/browse/UISAUTCOMP-67) Add "Local" or "Shared" to flag MARC authorities.
 - [UISAUTCOMP-68](https://issues.folio.org/browse/UISAUTCOMP-68) Add Shared icon to MARC authority search results.
+- [UISAUTCOMP-70](https://issues.folio.org/browse/UISAUTCOMP-70) Change tenant id to central when opening details of Shared Authority.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
