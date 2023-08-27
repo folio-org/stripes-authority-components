@@ -24,7 +24,7 @@
     "childrenSubjectHeading": "Dětské tematické okruhy",
     "genre": "Žánr",
     "advancedSearch": "Rozšířené vyhledávání",
-    "marcHeading": "Záznam MARC autority",
+    "marcHeading": "{shared, select, true {Sdílený} false {Místní} other {}} záznam MARC autority",
     "authorityRecordSubtitle": "{heading} • Poslední aktualizace: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "byl by tady",
     "search-results-list.authRefType": "Autorizováno/Odkaz",
@@ -40,5 +40,5 @@
     "filter.true": "Ano",
     "filter.false": "Ne",
     "search.shared": "Sdíleno",
-    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}"
+    "authorityRecordTitle": "{shared, select, true {Sdílené •} false {Místní •} other {}} {title}"
 }
