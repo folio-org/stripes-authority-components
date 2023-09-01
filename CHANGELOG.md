@@ -19,6 +19,7 @@
 - [UISAUTCOMP-68](https://issues.folio.org/browse/UISAUTCOMP-68) Add Shared icon to MARC authority search results.
 - [UISAUTCOMP-70](https://issues.folio.org/browse/UISAUTCOMP-70) Change tenant id to central when opening details of Shared Authority.
 - [UISAUTCOMP-72](https://issues.folio.org/browse/UISAUTCOMP-72) Link Shared/Local MARC bib record to Shared/Local Authority record.
+- [UISAUTCOMP-73](https://issues.folio.org/browse/UISAUTCOMP-73) Delete Shared MARC authority record.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
