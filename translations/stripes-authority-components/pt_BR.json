@@ -24,7 +24,7 @@
     "childrenSubjectHeading": "Cabeçalho de assunto do filho",
     "genre": "Gênero",
     "advancedSearch": "Busca avançada",
-    "marcHeading": "Registro de Autoridade MARC",
+    "marcHeading": "{shared, select, true {Compartilhado} false {Local} other {}} Registro de autoridade MARC",
     "authorityRecordSubtitle": "{heading} • Última atualização: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "apareceria aqui",
     "search-results-list.authRefType": "Autorizada/Referência",
@@ -40,5 +40,5 @@
     "filter.true": "Sim",
     "filter.false": "Não",
     "search.shared": "Compartilhado",
-    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}"
+    "authorityRecordTitle": "{shared, select, true {Compartilhado • } false {Local • } other {}} {title}"
 }
