@@ -24,7 +24,7 @@
     "childrenSubjectHeading": "儿童主题词表",
     "genre": "体裁",
     "advancedSearch": "高级搜索",
-    "marcHeading": "MARC规范记录",
+    "marcHeading": "{shared, select, true { 已共享 } false { 本地 } other {}} MARC 规范记录",
     "authorityRecordSubtitle": "{heading} • 最后更新： {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "会在这里",
     "search-results-list.authRefType": "规范/参考",
@@ -37,8 +37,8 @@
     "authority.view.error.unknown": "发生未知错误",
     "search.sourceFileId": "规范来源",
     "search.sourceFileId.nullOption": "未指定",
-    "filter.true": "Yes",
-    "filter.false": "No",
-    "search.shared": "Shared",
-    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}"
+    "filter.true": "是",
+    "filter.false": "否",
+    "search.shared": "已共享",
+    "authorityRecordTitle": "{shared, select, true {已共享 • } false {本地 • } other {}} {title}"
 }
