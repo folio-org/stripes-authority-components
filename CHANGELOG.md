@@ -22,6 +22,7 @@
 - [UISAUTCOMP-73](https://issues.folio.org/browse/UISAUTCOMP-73) Delete Shared MARC authority record.
 - [UISAUTCOMP-74](https://issues.folio.org/browse/UISAUTCOMP-74) Shared "MARC authority" doesn't open automatically on "Member" tenant when search returns one record.
 - [UISAUTCOMP-76](https://issues.folio.org/browse/UISAUTCOMP-76) *BREAKING* bump `react-intl` to `v6.4.4`.
+- [UISAUTCOMP-77](https://issues.folio.org/browse/UISAUTCOMP-77) Use "see from also" options for Name-Title search.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
