@@ -25,6 +25,7 @@
 - [UISAUTCOMP-77](https://issues.folio.org/browse/UISAUTCOMP-77) Use "see from also" options for Name-Title search.
 - [UISAUTCOMP-78](https://issues.folio.org/browse/UISAUTCOMP-78) Don't clear previous Search/Browse results to highlight the edited record.
 - [UISAUTCOMP-79](https://issues.folio.org/browse/UISAUTCOMP-79) Fix the Next button being disabled when moving from the second page to the first and focusing the first row of the list only after loading the data.
+- [UISAUTCOMP-82](https://issues.folio.org/browse/UISAUTCOMP-82) Delete unused useHighlightEditedRecord.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
