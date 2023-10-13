@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [3.0.0] IN PROGRESS
+## [3.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.0) (2023-10-13)
 
 - [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
 - [UISAUTCOMP-43](https://issues.folio.org/browse/UISAUTCOMP-43) Unpin `@vue/compiler-sfc` which no longer causes node conflicts
