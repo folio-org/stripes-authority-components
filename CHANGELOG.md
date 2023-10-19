@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [3.0.1] IN PROGRESS
+
+- [UISAUTCOMP-87](https://issues.folio.org/browse/UISAUTCOMP-87) Highlight the Browse search list row after editing the 1xx field.
+
 ## [3.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.0) (2023-10-13)
 
 - [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
