@@ -1,5 +1,10 @@
 # Change history for stripes-authoriy-components
 
+## [3.0.1] IN PROGRESS
+
+- [UISAUTCOMP-87](https://issues.folio.org/browse/UISAUTCOMP-87) Highlight the Browse search list row after editing the 1xx field.
+- [UISAUTCOMP-85](https://issues.folio.org/browse/UISAUTCOMP-85) MARC authority app: Remove Advanced search match dropdown.
+
 ## [3.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.0) (2023-10-13)
 
 - [UISAUTCOMP-38](https://issues.folio.org/browse/UISAUTCOMP-38) Unpin `@rehooks/local-storage` now that it's no longer broken
@@ -26,7 +31,6 @@
 - [UISAUTCOMP-78](https://issues.folio.org/browse/UISAUTCOMP-78) Don't clear previous Search/Browse results to highlight the edited record.
 - [UISAUTCOMP-79](https://issues.folio.org/browse/UISAUTCOMP-79) Fix the Next button being disabled when moving from the second page to the first and focusing the first row of the list only after loading the data.
 - [UISAUTCOMP-84](https://issues.folio.org/browse/UISAUTCOMP-84) Fix "Reset all" button doesn't reset result pane in "MARC authority" app.
-- [UISAUTCOMP-85](https://issues.folio.org/browse/UISAUTCOMP-85) MARC authority app: Remove Advanced search match dropdown.
 
 ## [2.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v2.0.2) (2023-03-30)
 
