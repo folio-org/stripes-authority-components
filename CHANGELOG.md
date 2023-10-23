@@ -1,10 +1,13 @@
 # Change history for stripes-authoriy-components
 
+## [3.1.0] IN PROGRESS
+
+- [UISAUTCOMP-65](https://issues.folio.org/browse/UISAUTCOMP-65) Remove eslint deps that are already listed in eslint-config-stripes.
+
 ## [3.0.1] IN PROGRESS
 
 - [UISAUTCOMP-87](https://issues.folio.org/browse/UISAUTCOMP-87) Highlight the Browse search list row after editing the 1xx field.
 - [UISAUTCOMP-85](https://issues.folio.org/browse/UISAUTCOMP-85) MARC authority app: Remove Advanced search match dropdown.
-- [UISAUTCOMP-65](https://issues.folio.org/browse/UISAUTCOMP-65) Remove eslint deps that are already listed in eslint-config-stripes.
 
 ## [3.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.0) (2023-10-13)
 
