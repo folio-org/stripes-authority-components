@@ -3,6 +3,7 @@
 ## [3.1.0] IN PROGRESS
 
 - [UISAUTCOMP-65](https://issues.folio.org/browse/UISAUTCOMP-65) Remove eslint deps that are already listed in eslint-config-stripes.
+- [UISAUTCOMP-91](https://issues.folio.org/browse/UISAUTCOMP-91) Add LCCN search option.
 
 ## [3.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.1) (2023-10-27)
 
