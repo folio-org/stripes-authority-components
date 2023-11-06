@@ -40,5 +40,6 @@
     "filter.true": "Yes",
     "filter.false": "No",
     "search.shared": "Shared",
-    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}"
+    "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}",
+    "lccn": "LCCN"
 }

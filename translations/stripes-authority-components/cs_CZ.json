@@ -40,5 +40,6 @@
     "filter.true": "Ano",
     "filter.false": "Ne",
     "search.shared": "Sdíleno",
-    "authorityRecordTitle": "{shared, select, true {Sdílené •} false {Místní •} other {}} {title}"
+    "authorityRecordTitle": "{shared, select, true {Sdílené •} false {Místní •} other {}} {title}",
+    "lccn": "LCCN"
 }
