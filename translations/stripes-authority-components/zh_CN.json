@@ -40,5 +40,6 @@
     "filter.true": "是",
     "filter.false": "否",
     "search.shared": "已共享",
-    "authorityRecordTitle": "{shared, select, true {已共享 • } false {本地 • } other {}} {title}"
+    "authorityRecordTitle": "{shared, select, true {已共享 • } false {本地 • } other {}} {title}",
+    "lccn": "LCCN"
 }
