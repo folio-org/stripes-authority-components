@@ -41,6 +41,7 @@
   "search-results-list.authRefType": "Authorized/Reference",
   "search-results-list.headingRef": "Heading/Reference",
   "search-results-list.headingType": "Type of heading",
+  "search-results-list.authoritySource": "Authority source",
   "search-results-list.paneSub": "{totalRecords, number} {totalRecords, plural, one {record found} other {records found}}",
   "search-results-list.selectAll": "Unselect all records on this page",
   "search-results-list.unselectAll": "Select all records on this page",

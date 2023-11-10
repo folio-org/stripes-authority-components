@@ -5,6 +5,7 @@
 - [UISAUTCOMP-65](https://issues.folio.org/browse/UISAUTCOMP-65) Remove eslint deps that are already listed in eslint-config-stripes.
 - [UISAUTCOMP-91](https://issues.folio.org/browse/UISAUTCOMP-91) Add LCCN search option.
 - [UISAUTCOMP-92](https://issues.folio.org/browse/UISAUTCOMP-92) Search box/Browse box- Reset all should shift focus back to search box.
+- [UISAUTCOMP-93](https://issues.folio.org/browse/UISAUTCOMP-93) Add new column called Authority source for browse and search results.
 - [UISAUTCOMP-94](https://issues.folio.org/browse/UISAUTCOMP-94) MARC authority - Keyword search should search natural id.
 
 ## [3.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.1) (2023-10-27)
