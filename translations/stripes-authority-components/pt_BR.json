@@ -41,5 +41,6 @@
     "filter.false": "Não",
     "search.shared": "Compartilhado",
     "authorityRecordTitle": "{shared, select, true {Compartilhado • } false {Local • } other {}} {title}",
-    "lccn": "LCCN"
+    "lccn": "LCCN",
+    "search-results-list.authoritySource": "Fonte da autoridade"
 }

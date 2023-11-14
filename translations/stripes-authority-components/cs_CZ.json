@@ -41,5 +41,6 @@
     "filter.false": "Ne",
     "search.shared": "Sdíleno",
     "authorityRecordTitle": "{shared, select, true {Sdílené •} false {Místní •} other {}} {title}",
-    "lccn": "LCCN"
+    "lccn": "LCCN",
+    "search-results-list.authoritySource": "Zdroj autority"
 }
