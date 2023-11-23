@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [3.0.2] IN PROGRESS
+
+- [UISAUTCOMP-95](https://issues.folio.org/browse/UISAUTCOMP-95) Use first page Browse query for facet requests.
+
 ## [3.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.1) (2023-10-27)
 
 - [UISAUTCOMP-87](https://issues.folio.org/browse/UISAUTCOMP-87) Highlight the Browse search list row after editing the 1xx field.
