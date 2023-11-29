@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [3.0.2] IN PROGRESS
+## [3.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.2) (2023-11-29)
 
 - [UISAUTCOMP-95](https://issues.folio.org/browse/UISAUTCOMP-95) Use first page Browse query for facet requests.
 
