@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [3.1.0] IN PROGRESS
+## [4.0.0] IN PROGRESS
 
 - [UISAUTCOMP-65](https://issues.folio.org/browse/UISAUTCOMP-65) Remove eslint deps that are already listed in eslint-config-stripes.
 - [UISAUTCOMP-91](https://issues.folio.org/browse/UISAUTCOMP-91) Add LCCN search option.
@@ -8,6 +8,7 @@
 - [UISAUTCOMP-93](https://issues.folio.org/browse/UISAUTCOMP-93) Add new column called Authority source for browse and search results.
 - [UISAUTCOMP-94](https://issues.folio.org/browse/UISAUTCOMP-94) MARC authority - Keyword search should search natural id.
 - [UISAUTCOMP-97](https://issues.folio.org/browse/UISAUTCOMP-97) Add Search type dropdown to Advanced search modal.
+- [UISAUTCOMP-98](https://issues.folio.org/browse/UISAUTCOMP-98) *BREAKING* Add authority-source-files interface.
 
 ## [3.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.2) (2023-11-29)
 

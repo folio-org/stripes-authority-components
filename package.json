@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-authority-components",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "description": "Component library for Stripes Authority modules",
   "repository": "https://github.com/folio-org/stripes-authority-components",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "okapiInterfaces": {
       "search": "1.0",
       "browse": "1.0",
+      "authority-source-files": "2.0",
       "source-storage-records": "3.0"
     }
   },
