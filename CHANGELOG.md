@@ -8,7 +8,7 @@
 - [UISAUTCOMP-93](https://issues.folio.org/browse/UISAUTCOMP-93) Add new column called Authority source for browse and search results.
 - [UISAUTCOMP-94](https://issues.folio.org/browse/UISAUTCOMP-94) MARC authority - Keyword search should search natural id.
 - [UISAUTCOMP-97](https://issues.folio.org/browse/UISAUTCOMP-97) Add Search type dropdown to Advanced search modal.
-- [UISAUTCOMP-98](https://issues.folio.org/browse/UISAUTCOMP-98) Add authority-source-files interface.
+- [UISAUTCOMP-98](https://issues.folio.org/browse/UISAUTCOMP-98) *BREAKING* Add authority-source-files interface.
 
 ## [3.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.2) (2023-11-29)
 
