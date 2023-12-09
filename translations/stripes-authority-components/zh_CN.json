@@ -42,5 +42,5 @@
     "search.shared": "已共享",
     "authorityRecordTitle": "{shared, select, true {已共享 • } false {本地 • } other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "Authority source"
+    "search-results-list.authoritySource": "规范来源"
 }

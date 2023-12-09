@@ -35,12 +35,12 @@
     "search-results-list.unselectAll": "Select all records on this page",
     "authority.view.error.notFound": "Authority record not found",
     "authority.view.error.unknown": "An unknown error occurred",
-    "search.sourceFileId": "Authority source",
+    "search.sourceFileId": "Źródło kartoteki",
     "search.sourceFileId.nullOption": "Not specified",
     "filter.true": "Yes",
     "filter.false": "No",
     "search.shared": "Shared",
     "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "Authority source"
+    "search-results-list.authoritySource": "Źródło kartoteki"
 }
