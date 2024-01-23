@@ -7,3 +7,4 @@ import './stripesIcon.mock';
 import './stripesSmartComponent.mock';
 import './matchMedia.mock';
 import './react-virtualized-auto-sizer.mock';
+import './resizeObserver.mock';
