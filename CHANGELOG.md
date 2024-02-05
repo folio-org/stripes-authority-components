@@ -10,6 +10,7 @@
 - [UISAUTCOMP-97](https://issues.folio.org/browse/UISAUTCOMP-97) Add Search type dropdown to Advanced search modal.
 - [UISAUTCOMP-98](https://issues.folio.org/browse/UISAUTCOMP-98) *BREAKING* Add authority-source-files interface.
 - [UISAUTCOMP-101](https://issues.folio.org/browse/UISAUTCOMP-101) Counter values and options for "Authority source", "Thesaurus" facet options do not change when changing search parameters
+- [UISAUTCOMP-106](https://issues.folio.org/browse/UISAUTCOMP-106) *BREAKING* Updated `useAuthoritySourceFiles` to provide mutation methods. Deleted `useTenantKy`.
 
 ## [3.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v3.0.2) (2023-11-29)
 
