@@ -23,7 +23,7 @@
     "subject": "Subject",
     "childrenSubjectHeading": "Children's subject heading",
     "genre": "Genre",
-    "advancedSearch": "Advanced search",
+    "advancedSearch": "Erweiterte Suche",
     "marcHeading": "{shared, select, true {Shared} false {Local} other {}} MARC authority record",
     "authorityRecordSubtitle": "{heading} • Last updated: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "would be here",
