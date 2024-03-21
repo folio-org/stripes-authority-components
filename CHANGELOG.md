@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [4.0.0] IN PROGRESS
+## [4.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.0) (2024-03-21)
 
 - [UISAUTCOMP-65](https://issues.folio.org/browse/UISAUTCOMP-65) Remove eslint deps that are already listed in eslint-config-stripes.
 - [UISAUTCOMP-91](https://issues.folio.org/browse/UISAUTCOMP-91) Add LCCN search option.
