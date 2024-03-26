@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [4.0.1] (IN PROGRESS)
+
+- [UISAUTCOMP-111](https://issues.folio.org/browse/UISAUTCOMP-111) `useUsers` hook - add user ids to cache keys to fetch users when user ids change.
+
 ## [4.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.0) (2024-03-21)
 
 - [UISAUTCOMP-65](https://issues.folio.org/browse/UISAUTCOMP-65) Remove eslint deps that are already listed in eslint-config-stripes.
