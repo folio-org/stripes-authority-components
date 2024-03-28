@@ -12,13 +12,13 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  justify-content: space-between;
+  margin-bottom: 0.5em;
 }
 
-.resetButtonWrapper {
+.resetButton {
   flex: 1 110px;
 }
 
-.advancedSearchButtonWrapper {
+.advancedSearchButton {
   flex: 1 140px;
 }
