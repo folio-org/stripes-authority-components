@@ -7,3 +7,18 @@
 .searchField {
   margin-bottom: calc(var(--control-margin-bottom) / -2);
 }
+
+.resetAndAdvancedSearchWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: space-between;
+}
+
+.resetButtonWrapper {
+  flex: 1 110px;
+}
+
+.advancedSearchButtonWrapper {
+  flex: 1 140px;
+}
