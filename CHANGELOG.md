@@ -1,11 +1,14 @@
 # Change history for stripes-authoriy-components
 
+## [4.1.0] (IN PROGRESS)
+
+- [UISAUTCOMP-117](https://issues.folio.org/browse/UISAUTCOMP-117) Provide deprecation notice to `useUserTenantPermissions.js`.
+
 ## [4.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.1) (2024-04-02)
 
 - [UISAUTCOMP-111](https://issues.folio.org/browse/UISAUTCOMP-111) `useUsers` hook - add user ids to cache keys to fetch users when user ids change.
 - [UISAUTCOMP-112](https://issues.folio.org/browse/UISAUTCOMP-112) Extend auto-open a record functionality.
 - [UISAUTCOMP-113](https://issues.folio.org/browse/UISAUTCOMP-113) Re-position advanced search button when there is too little space in the search pane.
-- [UISAUTCOMP-117](https://issues.folio.org/browse/UISAUTCOMP-117) Provide deprecation notice to `useUserTenantPermissions.js`.
 
 ## [4.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.0) (2024-03-21)
 
