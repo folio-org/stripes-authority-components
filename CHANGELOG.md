@@ -3,7 +3,7 @@
 ## [4.1.0] (IN PROGRESS)
 
 - [UISAUTCOMP-117](https://issues.folio.org/browse/UISAUTCOMP-117) Provide deprecation notice to `useUserTenantPermissions.js`.
-- [UISAUTCOMP-117](https://issues.folio.org/browse/UISAUTCOMP-119) Pass `source` with `failure` and `failureMessage` to the `SearchAndSortNoResultsMessage` component to display the correct message in the results if there is no permission to search records.
+- [UISAUTCOMP-119](https://issues.folio.org/browse/UISAUTCOMP-119) Pass `source` with `failure` and `failureMessage` to the `SearchAndSortNoResultsMessage` component to display the correct message in the results if there is no permission to search records.
 
 ## [4.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.1) (2024-04-02)
 
