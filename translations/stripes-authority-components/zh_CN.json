@@ -42,5 +42,6 @@
     "search.shared": "已共享",
     "authorityRecordTitle": "{shared, select, true {已共享 • } false {本地 • } other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "规范来源"
+    "search-results-list.authoritySource": "规范来源",
+    "authorities.error.forbidden": "User does not have permission to search authority records."
 }
