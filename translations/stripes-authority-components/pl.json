@@ -16,7 +16,7 @@
     "keyword": "Słowo kluczowe",
     "identifier": "Identyfikator (wszystko)",
     "personalName": "Nazwa osobowa",
-    "corporateConferenceName": "Nazwa korporatywna/impreza",
+    "corporateConferenceName": "Nazwa korporatywna/imprezy",
     "geographicName": "Nazwa geograficzna",
     "nameTitle": "Autor-tytuł",
     "uniformTitle": "Tytuł ujednolicony",
@@ -42,5 +42,6 @@
     "search.shared": "Shared",
     "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "Źródło kartoteki"
+    "search-results-list.authoritySource": "Źródło kartoteki",
+    "authorities.error.forbidden": "User does not have permission to search authority records."
 }
