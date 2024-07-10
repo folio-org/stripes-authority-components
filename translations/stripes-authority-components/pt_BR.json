@@ -42,5 +42,6 @@
     "search.shared": "Compartilhado",
     "authorityRecordTitle": "{shared, select, true {Compartilhado • } false {Local • } other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "Fonte da autoridade"
+    "search-results-list.authoritySource": "Fonte da autoridade",
+    "authorities.error.forbidden": "O usuário não tem permissão para pesquisar registros de autoridade."
 }
