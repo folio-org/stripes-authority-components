@@ -42,5 +42,6 @@
     "search.shared": "已共享",
     "authorityRecordTitle": "{shared, select, true {共享 • } false {本地 • } other {}} {title}",
     "lccn": "美國國會圖書館控制號",
-    "search-results-list.authoritySource": "權威來源"
+    "search-results-list.authoritySource": "權威來源",
+    "authorities.error.forbidden": "User does not have permission to search authority records."
 }
