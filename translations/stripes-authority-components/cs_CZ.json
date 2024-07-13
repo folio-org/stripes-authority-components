@@ -42,5 +42,6 @@
     "search.shared": "Sdíleno",
     "authorityRecordTitle": "{shared, select, true {Sdílené •} false {Místní •} other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "Zdroj autority"
+    "search-results-list.authoritySource": "Zdroj autority",
+    "authorities.error.forbidden": "User does not have permission to search authority records."
 }
