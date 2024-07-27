@@ -19,7 +19,7 @@
     "corporateConferenceName": "Corporate/Conference name",
     "geographicName": "Geographic name",
     "nameTitle": "Name-title",
-    "uniformTitle": "Uniform title",
+    "uniformTitle": "Einheitstitel",
     "subject": "Subject",
     "childrenSubjectHeading": "Children's subject heading",
     "genre": "Genre",
@@ -42,5 +42,6 @@
     "search.shared": "Shared",
     "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "Authority source"
+    "search-results-list.authoritySource": "Authority source",
+    "authorities.error.forbidden": "User does not have permission to search authority records."
 }
