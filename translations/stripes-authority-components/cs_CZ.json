@@ -26,7 +26,7 @@
     "advancedSearch": "Rozšířené vyhledávání",
     "marcHeading": "{shared, select, true {Sdílený} false {Místní} other {}} záznam MARC autority",
     "authorityRecordSubtitle": "{heading} • Poslední aktualizace: {lastUpdatedDate}",
-    "browse.noMatch.wouldBeHereLabel": "byl by tady",
+    "browse.noMatch.wouldBeHereLabel": "by byl tady",
     "search-results-list.authRefType": "Autorizováno/Odkaz",
     "search-results-list.headingRef": "Nadpis/Odkaz",
     "search-results-list.headingType": "Typ nadpisu",
@@ -42,5 +42,6 @@
     "search.shared": "Sdíleno",
     "authorityRecordTitle": "{shared, select, true {Sdílené •} false {Místní •} other {}} {title}",
     "lccn": "LCCN",
-    "search-results-list.authoritySource": "Zdroj autority"
+    "search-results-list.authoritySource": "Zdroj autority",
+    "authorities.error.forbidden": "User does not have permission to search authority records."
 }
