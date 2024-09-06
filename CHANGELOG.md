@@ -6,6 +6,7 @@
 - [UISAUTCOMP-119](https://issues.folio.org/browse/UISAUTCOMP-119) Pass `source` with `failure` and `failureMessage` to the `SearchAndSortNoResultsMessage` component to display the correct message in the results if there is no permission to search records.
 - [UISAUTCOMP-123](https://issues.folio.org/browse/UISAUTCOMP-123) Pass the `isCursorAtEnd` prop to the `TextArea` component.
 - [UISAUTCOMP-124](https://issues.folio.org/browse/UISAUTCOMP-124) `SearchResultsList` - pass `sortDirection` and `showSortIndicator` props.
+- [UISAUTCOMP-126](https://issues.folio.org/browse/UISAUTCOMP-126) Handle cases when `authRefType` is not defined in records.
 
 ## [4.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.1) (2024-04-02)
 
