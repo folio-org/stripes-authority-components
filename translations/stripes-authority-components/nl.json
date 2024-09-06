@@ -24,7 +24,7 @@
     "childrenSubjectHeading": "Onderwerpsterm kindercollectie",
     "genre": "Genre",
     "advancedSearch": "Geavanceerd zoeken",
-    "marcHeading": "{Shared, select, true {Shared} false {Local} other {}} MARC Authorityrecord",
+    "marcHeading": "{shared, select, true {Shared} false {Local} other {}} MARC Authorityrecord",
     "authorityRecordSubtitle": "{heading} - Laatst bijgewerkt: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "zou hier moeten zijn",
     "search-results-list.authRefType": "Geautoriseerd/Referentie",
