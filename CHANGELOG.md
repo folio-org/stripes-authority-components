@@ -7,6 +7,7 @@
 - [UISAUTCOMP-123](https://issues.folio.org/browse/UISAUTCOMP-123) Pass the `isCursorAtEnd` prop to the `TextArea` component.
 - [UISAUTCOMP-124](https://issues.folio.org/browse/UISAUTCOMP-124) `SearchResultsList` - pass `sortDirection` and `showSortIndicator` props.
 - [UISAUTCOMP-126](https://issues.folio.org/browse/UISAUTCOMP-126) Handle cases when `authRefType` is not defined in records.
+- [UISAUTCOMP-127](https://issues.folio.org/browse/UISAUTCOMP-127) Change MARC authority search to "all" for full-text fields.
 
 ## [4.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.1) (2024-04-02)
 
