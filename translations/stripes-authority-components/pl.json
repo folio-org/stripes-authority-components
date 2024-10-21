@@ -25,7 +25,7 @@
     "genre": "Rodzaj/gatunek",
     "advancedSearch": "Wyszukiwanie zaawansowane",
     "marcHeading": "{shared, select, true {Shared} false {Local} other {}} MARC authority record",
-    "authorityRecordSubtitle": "{heading} Ostatnia aktualizacja: {lastupdateddate}",
+    "authorityRecordSubtitle": "{heading} Ostatnia aktualizacja: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "powinno być tutaj",
     "search-results-list.authRefType": "Główne/Odsyłacz",
     "search-results-list.headingRef": "Hasło/Odsyłacz",
