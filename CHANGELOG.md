@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [4.1.0] (IN PROGRESS)
+## [5.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v5.0.0) (2024-10-30)
 
 - [UISAUTCOMP-117](https://issues.folio.org/browse/UISAUTCOMP-117) Provide deprecation notice to `useUserTenantPermissions.js`.
 - [UISAUTCOMP-119](https://issues.folio.org/browse/UISAUTCOMP-119) Pass `source` with `failure` and `failureMessage` to the `SearchAndSortNoResultsMessage` component to display the correct message in the results if there is no permission to search records.
@@ -8,6 +8,7 @@
 - [UISAUTCOMP-124](https://issues.folio.org/browse/UISAUTCOMP-124) `SearchResultsList` - pass `sortDirection` and `showSortIndicator` props.
 - [UISAUTCOMP-126](https://issues.folio.org/browse/UISAUTCOMP-126) Handle cases when `authRefType` is not defined in records.
 - [UISAUTCOMP-127](https://issues.folio.org/browse/UISAUTCOMP-127) Change MARC authority search to "all" for full-text fields.
+- *BREAKING* Upgrade `stripes-acq-components` to `6.0.0`.
 
 ## [4.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.1) (2024-04-02)
 
