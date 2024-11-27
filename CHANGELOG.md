@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [5.0.2] (IN PROGRESS)
+
+- [UISAUTCOMP-133](https://issues.folio.org/browse/UISAUTCOMP-133) Handle uncaught error when a search request fails.
+
 ## [5.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v5.0.1) (2024-11-14)
 
 - [UISAUTCOMP-130](https://issues.folio.org/browse/UISAUTCOMP-130) Provide a prop to `<AcqDateRangeFilter>` to subscribe to search form resets.
