@@ -2,12 +2,12 @@
     "meta.title": "Autoridade MARC",
     "browseSelectPlaceholder": "Selecione uma opção de navegação",
     "label.search": "Buscar",
-    "label.search.textArea": "Digite consulta de pesquisa",
+    "label.search.textArea": "Digite consulta de busca",
     "label.browse": "Navegar",
     "search.searchAndFilter": "Buscar e filtrar",
     "search.createdDate": "Data de criação",
     "search.updatedDate": "Data de atualização",
-    "search.subjectHeadings": "Thesaurus",
+    "search.subjectHeadings": "Tesauro",
     "search.headingType": "Tipo de cabeçalho",
     "search.references": "Referências",
     "search.excludeSeeFrom": "Excluir VER DE",
@@ -43,5 +43,6 @@
     "authorityRecordTitle": "{shared, select, true {Compartilhado • } false {Local • } other {}} {title}",
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Fonte da autoridade",
-    "authorities.error.forbidden": "O usuário não tem permissão para pesquisar registros de autoridade."
+    "authorities.error.forbidden": "O usuário não tem permissão para buscar registros de autoridade.",
+    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
 }

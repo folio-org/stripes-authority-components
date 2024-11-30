@@ -43,5 +43,6 @@
     "authorityRecordTitle": "{shared, select, true {共享 • } false {本地 • } other {}} {title}",
     "lccn": "美國國會圖書館控制號",
     "search-results-list.authoritySource": "權威來源",
-    "authorities.error.forbidden": "User does not have permission to search authority records."
+    "authorities.error.forbidden": "User does not have permission to search authority records.",
+    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
 }
