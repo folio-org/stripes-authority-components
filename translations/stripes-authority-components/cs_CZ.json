@@ -43,5 +43,6 @@
     "authorityRecordTitle": "{shared, select, true {Sdílené •} false {Místní •} other {}} {title}",
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Zdroj autority",
-    "authorities.error.forbidden": "Uživatel nemá oprávnění prohledávat autoritní záznamy."
+    "authorities.error.forbidden": "Uživatel nemá oprávnění prohledávat autoritní záznamy.",
+    "search-results-list.error.badRequest": "Vyhledávání pro {query} nebylo možné zpracovat. Zkontrolujte prosím svůj dotaz a zkuste to znovu."
 }

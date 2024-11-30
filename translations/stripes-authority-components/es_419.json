@@ -3,7 +3,7 @@
     "browseSelectPlaceholder": "Seleccione una opción de navegación",
     "label.search": "Buscar en",
     "label.search.textArea": "Introduzca la consulta de búsqueda",
-    "label.browse": "Visite",
+    "label.browse": "Indices",
     "search.searchAndFilter": "Buscar y filtrar",
     "search.createdDate": "Fecha de creación",
     "search.updatedDate": "Fecha de actualización",
@@ -43,5 +43,6 @@
     "authorityRecordTitle": "{shared, select, true {Compartido -} false {Local -} other {}} {title}",
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Authority source",
-    "authorities.error.forbidden": "User does not have permission to search authority records."
+    "authorities.error.forbidden": "User does not have permission to search authority records.",
+    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
 }
