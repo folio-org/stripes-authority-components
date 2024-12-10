@@ -43,5 +43,6 @@
     "authorityRecordTitle": "{shared, select, true {Shared -} false {Local -} other {}} {title}",
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Authoritybron",
-    "authorities.error.forbidden": "Gebruiker heeft geen toestemming om Authorityrecords te doorzoeken."
+    "authorities.error.forbidden": "Gebruiker heeft geen toestemming om Authorityrecords te doorzoeken.",
+    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
 }
