@@ -44,5 +44,5 @@
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Authoritybron",
     "authorities.error.forbidden": "Gebruiker heeft geen toestemming om Authorityrecords te doorzoeken.",
-    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
+    "search-results-list.error.badRequest": "Zoeken kon niet worden verwerkt voor {query}. Controleer uw zoekopdracht en probeer het opnieuw."
 }
