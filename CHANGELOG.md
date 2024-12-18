@@ -5,6 +5,10 @@
 - [UISAUTCOMP-136](https://folio-org.atlassian.net/browse/UISAUTCOMP-136) Spitfire - migrate to shared CI workflows.
 - [UISAUTCOMP-118](https://folio-org.atlassian.net/browse/UISAUTCOMP-118) React v19: refactor away from default props for functional components.
 
+## [5.0.3] (IN PROGRESS)
+
+- [UISAUTCOMP-135](https://issues.folio.org/browse/UISAUTCOMP-135) `useAutoOpenDetailView` - block auto-open on mount if record id exists in URL.
+
 ## [5.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v5.0.2) (2024-12-10)
 
 - [UISAUTCOMP-133](https://issues.folio.org/browse/UISAUTCOMP-133) Handle uncaught error when a search request fails.
