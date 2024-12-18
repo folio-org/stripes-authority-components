@@ -3,6 +3,7 @@
 ## [5.1.0] (IN PROGRESS)
 
 - [UISAUTCOMP-136](https://folio-org.atlassian.net/browse/UISAUTCOMP-136) Spitfire - migrate to shared CI workflows.
+- [UISAUTCOMP-118](https://folio-org.atlassian.net/browse/UISAUTCOMP-118) React v19: refactor away from default props for functional components.
 
 ## [5.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v5.0.2) (2024-12-10)
 
