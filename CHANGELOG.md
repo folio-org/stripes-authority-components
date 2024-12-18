@@ -1,5 +1,9 @@
 # Change history for stripes-authoriy-components
 
+## [5.1.0] (IN PROGRESS)
+
+- [UISAUTCOMP-136](https://folio-org.atlassian.net/browse/UISAUTCOMP-136) Spitfire - migrate to shared CI workflows.
+
 ## [5.0.3] (IN PROGRESS)
 
 - [UISAUTCOMP-135](https://issues.folio.org/browse/UISAUTCOMP-135) `useAutoOpenDetailView` - block auto-open on mount if record id exists in URL.
