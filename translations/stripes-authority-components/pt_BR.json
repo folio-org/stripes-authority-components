@@ -44,5 +44,5 @@
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Fonte da autoridade",
     "authorities.error.forbidden": "O usuário não tem permissão para buscar registros de autoridade.",
-    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
+    "search-results-list.error.badRequest": "A busca não pôde ser processada para {query} . Verifique sua consulta e tente novamente."
 }
