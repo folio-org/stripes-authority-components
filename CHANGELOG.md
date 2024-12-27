@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [5.0.3] (IN PROGRESS)
+## [5.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v5.0.3) (2024-12-27)
 
 - [UISAUTCOMP-135](https://issues.folio.org/browse/UISAUTCOMP-135) `useAutoOpenDetailView` - block auto-open on mount if record id exists in URL.
 
