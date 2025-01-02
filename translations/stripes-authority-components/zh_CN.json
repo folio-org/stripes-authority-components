@@ -44,5 +44,5 @@
     "lccn": "LCCN",
     "search-results-list.authoritySource": "规范来源",
     "authorities.error.forbidden": "用户没有权限搜索规范记录。",
-    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
+    "search-results-list.error.badRequest": "无法针对{query}进行搜索。请检查您的查询并重试。"
 }
