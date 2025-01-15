@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [4.0.2] (IN PROGRESS)
+## [4.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v4.0.2) (2025-01-15)
 
 - [UISAUTCOMP-137](https://issues.folio.org/browse/UISAUTCOMP-137) Return also sub permissions in `useUserTenantPermissions`.
 
