@@ -5,7 +5,7 @@
 - [UISAUTCOMP-136](https://folio-org.atlassian.net/browse/UISAUTCOMP-136) Spitfire - migrate to shared CI workflows.
 - [UISAUTCOMP-118](https://folio-org.atlassian.net/browse/UISAUTCOMP-118) React v19: refactor away from default props for functional components.
 - [UISAUTCOMP-140](https://folio-org.atlassian.net/browse/UISAUTCOMP-140) Change query building process for Browse filters.
-- [UISAUTCOMP-143](https://folio-org.atlassian.net/browse/UISAUTCOMP-143) Correct keyword search in the `buildQuery` function.
+- [UISAUTCOMP-143](https://folio-org.atlassian.net/browse/UISAUTCOMP-143) Correct keyword search.
 
 ## [5.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v5.0.3) (2024-12-27)
 
