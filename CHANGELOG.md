@@ -9,6 +9,7 @@
 - [UISAUTCOMP-141](https://folio-org.atlassian.net/browse/UISAUTCOMP-141) *BREAKING* migrate stripes dependencies to their Sunflower versions.
 - [UISAUTCOMP-142](https://folio-org.atlassian.net/browse/UISAUTCOMP-142) *BREAKING* migrate react-intl to v7.
 - [UISAUTCOMP-144](https://folio-org.atlassian.net/browse/UISAUTCOMP-144) *BREAKING* Remove deprecated useUserTenantPermissions.
+- [UISAUTCOMP-147](https://folio-org.atlassian.net/browse/UISAUTCOMP-147) Upgrade `browse` to `2.0`.
 
 ## [5.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v5.0.3) (2024-12-27)
 
