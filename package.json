@@ -11,7 +11,7 @@
     ],
     "okapiInterfaces": {
       "search": "1.0",
-      "browse": "1.0",
+      "browse": "1.0 2.0",
       "authority-source-files": "2.0",
       "source-storage-records": "3.0"
     }
