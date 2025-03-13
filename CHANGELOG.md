@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [6.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.0) (2024-03-13)
+## [6.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.0) (2025-03-13)
 
 - [UISAUTCOMP-136](https://folio-org.atlassian.net/browse/UISAUTCOMP-136) Spitfire - migrate to shared CI workflows.
 - [UISAUTCOMP-118](https://folio-org.atlassian.net/browse/UISAUTCOMP-118) React v19: refactor away from default props for functional components.
