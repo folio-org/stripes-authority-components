@@ -4,7 +4,7 @@
 
 - [UISAUTCOMP-148](https://folio-org.atlassian.net/browse/UISAUTCOMP-148) Extend Subject search and browse to include all 1XX/4XX/5XX fields Subjects.
 
-## [6.0.0] (IN PROGRESS)
+## [6.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.0) (2025-03-13)
 
 - [UISAUTCOMP-136](https://folio-org.atlassian.net/browse/UISAUTCOMP-136) Spitfire - migrate to shared CI workflows.
 - [UISAUTCOMP-118](https://folio-org.atlassian.net/browse/UISAUTCOMP-118) React v19: refactor away from default props for functional components.
