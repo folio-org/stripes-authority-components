@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [6.1.0] (IN PROGRESS)
+## [6.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.1) (2025-04-09)
 
 - [UISAUTCOMP-148](https://folio-org.atlassian.net/browse/UISAUTCOMP-148) Extend Subject search and browse to include all 1XX/4XX/5XX fields Subjects.
 
