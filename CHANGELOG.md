@@ -1,7 +1,7 @@
 # Change history for stripes-authoriy-components
 
 
-## [6.0.2] (IN PROGRESS)
+## [6.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.2) (2025-06-02)
 
 - [UISAUTCOMP-152](https://folio-org.atlassian.net/browse/UISAUTCOMP-152) `useAuthority` hook - use `expandAll=true` parameter to fetch authority metadata.
 
