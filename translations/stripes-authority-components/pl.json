@@ -24,7 +24,7 @@
     "childrenSubjectHeading": "Hasło przedmiotowe dla dzieci",
     "genre": "Rodzaj/gatunek",
     "advancedSearch": "Wyszukiwanie zaawansowane",
-    "marcHeading": "{shared, select, true {Shared} false {Local} other {}} MARC authority record",
+    "marcHeading": "{shared, select, true {Współdzielony} false {Lokalny} other {}} rekord KHW",
     "authorityRecordSubtitle": "{heading} Ostatnia aktualizacja: {lastUpdatedDate}",
     "browse.noMatch.wouldBeHereLabel": "powinno być tutaj",
     "search-results-list.authRefType": "Główne/Odsyłacz",
@@ -43,6 +43,6 @@
     "authorityRecordTitle": "{shared, select, true {Shared •} false {Local •} other {}} {title}",
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Źródło KHW",
-    "authorities.error.forbidden": "User does not have permission to search authority records.",
+    "authorities.error.forbidden": "Użytkownik nie ma uprawnień do przeszukiwania rekordów KHW",
     "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
 }
