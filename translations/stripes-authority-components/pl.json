@@ -44,5 +44,5 @@
     "lccn": "LCCN",
     "search-results-list.authoritySource": "Źródło KHW",
     "authorities.error.forbidden": "Użytkownik nie ma uprawnień do przeszukiwania rekordów KHW",
-    "search-results-list.error.badRequest": "Search could not be processed for {query}. Please check your query and try again."
+    "search-results-list.error.badRequest": "Nie można przetworzyć wyszukiwania dla {query}. Sprawdź zapytanie i spróbuj ponownie."
 }
