@@ -1,9 +1,9 @@
 {
-    "meta.title": "MARC authority",
+    "meta.title": "MARC-авторитетні дані",
     "browseSelectPlaceholder": "Вибрати варіант перегляду",
     "label.search": "Пошук",
     "label.search.textArea": "Введіть пошуковий запит",
-    "label.browse": "Browse",
+    "label.browse": "Перегляд",
     "search.searchAndFilter": "Пошук та фільтри",
     "search.createdDate": "Дата створення",
     "search.updatedDate": "Дата оновлення",
