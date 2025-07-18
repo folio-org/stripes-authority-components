@@ -1,6 +1,6 @@
 {
     "meta.title": "MARC authority",
-    "browseSelectPlaceholder": "Select a browse option",
+    "browseSelectPlaceholder": "Parcourir par",
     "label.search": "Rechercher",
     "label.search.textArea": "Entrez la requête de recherche",
     "label.browse": "Parcourir",
@@ -15,8 +15,8 @@
     "query": "Requête",
     "keyword": "Mot-clé",
     "identifier": "Identifier (all)",
-    "personalName": "Personal name",
-    "corporateConferenceName": "Corporate/Conference name",
+    "personalName": "Nom de personne",
+    "corporateConferenceName": "Nom de collectivité/conférence",
     "geographicName": "Geographic name",
     "nameTitle": "Name-title",
     "uniformTitle": "Uniform title",
