@@ -6,6 +6,10 @@
 - [UISAUTCOMP-155](https://folio-org.atlassian.net/browse/UISAUTCOMP-155) *BREAKING* Update for Split Search & Browse APIs.
 - [UISAUTCOMP-157](https://folio-org.atlassian.net/browse/UISAUTCOMP-157) Update Keyword and LCCN search options to search Cancelled LCCN index.
 
+## [6.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.3) (2025-09-17)
+
+- [UISAUTCOMP-159](https://folio-org.atlassian.net/browse/UISAUTCOMP-159) Update Keyword and LCCN search options to search Cancelled LCCN index.
+
 ## [6.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.2) (2025-06-02)
 
 - [UISAUTCOMP-152](https://folio-org.atlassian.net/browse/UISAUTCOMP-152) `useAuthority` hook - use `expandAll=true` parameter to fetch authority metadata.
