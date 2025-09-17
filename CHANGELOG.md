@@ -1,6 +1,6 @@
 # Change history for stripes-authoriy-components
 
-## [6.0.3] (IN PROGRESS)
+## [6.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.3) (2025-09-17)
 
 - [UISAUTCOMP-159](https://folio-org.atlassian.net/browse/UISAUTCOMP-159) Update Keyword and LCCN search options to search Cancelled LCCN index.
 
