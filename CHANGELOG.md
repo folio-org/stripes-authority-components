@@ -5,6 +5,7 @@
 - [UISAUTCOMP-151](https://folio-org.atlassian.net/browse/UISAUTCOMP-151) `useUsers` hook - accept a `tenantId` argument.
 - [UISAUTCOMP-155](https://folio-org.atlassian.net/browse/UISAUTCOMP-155) *BREAKING* Update for Split Search & Browse APIs.
 - [UISAUTCOMP-157](https://folio-org.atlassian.net/browse/UISAUTCOMP-157) Update Keyword and LCCN search options to search Cancelled LCCN index.
+- [UISAUTCOMP-164](https://folio-org.atlassian.net/browse/UISAUTCOMP-164) Apply Heading/Ref sort by default.
 
 ## [6.0.2] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.2) (2025-06-02)
 
