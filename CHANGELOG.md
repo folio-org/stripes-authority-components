@@ -6,6 +6,7 @@
 - [UISAUTCOMP-155](https://folio-org.atlassian.net/browse/UISAUTCOMP-155) *BREAKING* Update for Split Search & Browse APIs.
 - [UISAUTCOMP-157](https://folio-org.atlassian.net/browse/UISAUTCOMP-157) Update Keyword and LCCN search options to search Cancelled LCCN index.
 - [UISAUTCOMP-164](https://folio-org.atlassian.net/browse/UISAUTCOMP-164) Apply Heading/Ref sort by default.
+- [UISAUTCOMP-167](https://folio-org.atlassian.net/browse/UISAUTCOMP-167) MARC authority filters typeahead uses "starts with" instead of "contains"
 
 ## [6.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.3) (2025-09-17)
 
