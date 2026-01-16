@@ -8,6 +8,7 @@
 - [UISAUTCOMP-164](https://folio-org.atlassian.net/browse/UISAUTCOMP-164) Apply Heading/Ref sort by default.
 - [UISAUTCOMP-167](https://folio-org.atlassian.net/browse/UISAUTCOMP-167) MARC authority filters typeahead uses "starts with" instead of "contains"
 - [UISAUTCOMP-168](https://folio-org.atlassian.net/browse/UISAUTCOMP-168) Return `refetch` function from `useAuthority` hook.
+- [UISAUTCOMP-169](https://folio-org.atlassian.net/browse/UISAUTCOMP-169) MARC authority hit list does not stay on selected entry after "quickmarc" pane closing.
 
 ## [6.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.3) (2025-09-17)
 
