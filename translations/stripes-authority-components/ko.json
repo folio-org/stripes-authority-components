@@ -5,7 +5,7 @@
     "label.search.textArea": "Enter search query",
     "label.browse": "Browse",
     "search.searchAndFilter": "Search & filter",
-    "search.createdDate": "Date created",
+    "search.createdDate": "생성 날짜",
     "search.updatedDate": "Date updated",
     "search.subjectHeadings": "Thesaurus",
     "search.headingType": "Type of heading",
