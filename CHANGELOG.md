@@ -10,6 +10,7 @@
 - [UISAUTCOMP-168](https://folio-org.atlassian.net/browse/UISAUTCOMP-168) Return `refetch` function from `useAuthority` hook.
 - [UISAUTCOMP-169](https://folio-org.atlassian.net/browse/UISAUTCOMP-169) MARC authority hit list does not stay on selected entry after "quickmarc" pane closing.
 - [UISAUTCOMP-170](https://folio-org.atlassian.net/browse/UISAUTCOMP-170) `useAuthority` - wrap `react-query`'s `refetch` function to return a single record.
+- [UISAUTCOMP-162](https://folio-org.atlassian.net/browse/UISAUTCOMP-162) Provide `attach={document.body}` to `<HotKeys>` in order to avoid using its fallback on `findDOMNode()`.
 
 ## [6.0.3] (https://github.com/folio-org/stripes-authority-components/tree/v6.0.3) (2025-09-17)
 
