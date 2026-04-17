@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-authority-components",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "description": "Component library for Stripes Authority modules",
   "repository": "https://github.com/folio-org/stripes-authority-components",
   "main": "index.js",
@@ -30,10 +30,9 @@
   "devDependencies": {
     "@folio/eslint-config-stripes": "^8.0.0",
     "@folio/jest-config-stripes": "^3.0.0",
-    "@folio/stripes": "^10.0.0",
+    "@folio/stripes": "^10.1.0",
     "@folio/stripes-cli": "^4.0.0",
-    "@folio/stripes-components": "^13.0.0",
-    "@folio/stripes-core": "^11.0.0",
+    "@folio/stripes-components": "^13.1.0",
     "@folio/stripes-testing": "^5.0.0",
     "axe-core": "^4.1.4",
     "core-js": "^3.6.1",
@@ -60,7 +59,7 @@
 
   },
   "peerDependencies": {
-    "@folio/stripes": "^10.0.0",
+    "@folio/stripes": "^10.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-intl": "^7.1.6",

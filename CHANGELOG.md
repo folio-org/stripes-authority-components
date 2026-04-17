@@ -1,6 +1,6 @@
 # Change history for stripes-authority-components
 
-## [7.0.0] (IN PROGRESS)
+## [7.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v7.0.0) (2026-04-17)
 
 - [UISAUTCOMP-151](https://folio-org.atlassian.net/browse/UISAUTCOMP-151) `useUsers` hook - accept a `tenantId` argument.
 - [UISAUTCOMP-155](https://folio-org.atlassian.net/browse/UISAUTCOMP-155) *BREAKING* Update for Split Search & Browse APIs.
