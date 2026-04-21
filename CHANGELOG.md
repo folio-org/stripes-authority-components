@@ -1,5 +1,9 @@
 # Change history for stripes-authority-components
 
+## [7.1.0] (IN PROGRESS)
+
+- [UISAUTCOMP-173](https://folio-org.atlassian.net/browse/UISAUTCOMP-173) `SearchResultsList` - remove default `onHeaderClick` prop value.
+
 ## [7.0.0] (https://github.com/folio-org/stripes-authority-components/tree/v7.0.0) (2026-04-17)
 
 - [UISAUTCOMP-151](https://folio-org.atlassian.net/browse/UISAUTCOMP-151) `useUsers` hook - accept a `tenantId` argument.
