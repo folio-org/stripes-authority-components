@@ -2,6 +2,9 @@
 
 ## [7.1.0] (IN PROGRESS)
 
+
+## [7.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v7.0.1) (2026-05-28)
+
 - [UISAUTCOMP-173](https://folio-org.atlassian.net/browse/UISAUTCOMP-173) `SearchResultsList` - remove default `onHeaderClick` prop value.
 - [UISAUTCOMP-174](https://folio-org.atlassian.net/browse/UISAUTCOMP-174) `useAuthority` - refetch when results are empty.
 
