@@ -2,6 +2,7 @@
 
 ## [7.1.0] (IN PROGRESS)
 
+- [UISAUTCOMP-176](https://folio-org.atlassian.net/browse/UISAUTCOMP-176) Apply search index and query when applying filters.
 
 ## [7.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v7.0.1) (2026-05-28)
 
