@@ -3,6 +3,7 @@
 ## [7.1.0] (IN PROGRESS)
 
 - [UISAUTCOMP-176](https://folio-org.atlassian.net/browse/UISAUTCOMP-176) Apply search index and query when applying filters.
+- [UISAUTCOMP-150](https://folio-org.atlassian.net/browse/UISAUTCOMP-150) MARC authority | Hit "Enter" keyboard button must "click" on button elements.
 
 ## [7.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v7.0.1) (2026-05-28)
 
