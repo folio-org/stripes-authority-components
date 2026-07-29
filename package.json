@@ -41,11 +41,11 @@
     "identity-obj-proxy": "^3.0.0",
     "inflected": "^2.0.4",
     "lodash": "^4.17.4",
-    "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "react-intl": "^10.1.17",
-    "react-router": "^8.2.0",
-    "react-router-dom": "^7.18.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl": "^7.1.6",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-query": "^3.39.3",
     "regenerator-runtime": "^0.14.1"
   },
@@ -60,10 +60,10 @@
   },
   "peerDependencies": {
     "@folio/stripes": "^10.1.0",
-    "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "react-intl": "^10.1.17",
-    "react-router": "^8.2.0",
-    "react-router-dom": "^7.18.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl": "^7.1.6",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
   }
 }
