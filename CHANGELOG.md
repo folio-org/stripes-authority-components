@@ -8,6 +8,7 @@
 - [UISAUTCOMP-178](https://folio-org.atlassian.net/browse/UISAUTCOMP-178) Fix stale `setFilters` dep in `applyFilters` re-set query and index to old values when selecting a filter value.
 - [UISAUTCOMP-180](https://folio-org.atlassian.net/browse/UISAUTCOMP-180) Disable Browsing when search index is not selected.
 - [UISAUTCOMP-181](https://folio-org.atlassian.net/browse/UISAUTCOMP-181) Fix Results list is not cleared when clicking "Reset all" button in browse.
+- [UISAUTCOMP-182](https://folio-org.atlassian.net/browse/UISAUTCOMP-182) `SearchResultsList` - highlight ticked rows across their full width, distinguishable from the open-record row and without relying on colour alone.
 
 ## [7.0.1] (https://github.com/folio-org/stripes-authority-components/tree/v7.0.1) (2026-05-28)
 

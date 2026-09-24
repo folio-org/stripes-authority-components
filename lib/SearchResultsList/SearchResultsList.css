@@ -14,3 +14,12 @@
 .browseNoMatchText {
   color: var(--color-text);
 }
+
+.checkedRow {
+  background-color: var(--warn-fill);
+  border-left: 4px solid var(--warn);
+}
+
+.checkedRowOpen {
+  border-left: 4px dashed #fff;
+}
